@@ -1,19 +1,6 @@
 [{
         "letter": "А",
-        "teachers": [{
-                "familyName": "Аврамовић",
-                "givenName": "Милан",
-                "links": [{
-                    "title": "Дневник и евиденција",
-                    "url": "https://drive.google.com"
-                }, {
-                    "title": "Распоред часова",
-                    "url": "https://drive.google.com"
-                }, {
-                    "title": "Годишњи план рада",
-                    "url": "https://drive.google.com"
-                }]
-            },
+        "teachers": [
             {
                 "familyName": "Анђелковић",
                 "givenName": "Јелена",
