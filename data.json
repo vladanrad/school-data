@@ -37,10 +37,6 @@
         "givenName": "Ивана",
         "links": [
           {
-            "title": "Оперативни планови - Ивана Андрејић ",
-            "url": "https://drive.google.com/drive/folders/14DLB8S0oNZ3ncWf8HDMu1jI4mpuCIUN-"
-          },
-          {
             "title": "Оперативни планови - Андрејић Ивана",
             "url": "https://drive.google.com/drive/folders/1pdaQ45hjYZKGzJKw2o9rEUBO3IOpi94C"
           }
@@ -67,16 +63,6 @@
         ]
       },
       {
-        "familyName": "Анђелковић",
-        "givenName": "Милан",
-        "links": [
-          {
-            "title": "Оперативни планови - Анђелкоивћ Милан",
-            "url": "https://drive.google.com/drive/folders/1UXtcOSPLgx74qAEpz58mY4TrrD2zf4kZ"
-          }
-        ]
-      },
-      {
         "familyName": "Атанасковић",
         "givenName": "Александра",
         "links": [
@@ -98,16 +84,6 @@
           {
             "title": "Оперативни планови - Бабић Верољуб",
             "url": "https://drive.google.com/drive/folders/1QVefgRG0c3nipHSgBwXiDSQyxWGuUDO3"
-          }
-        ]
-      },
-      {
-        "familyName": "Бабић-Обрадовић",
-        "givenName": "Сања",
-        "links": [
-          {
-            "title": "Оперативни планови - Бабић Обрадовић Сања",
-            "url": "https://drive.google.com/drive/folders/1jz5yq7MEwCB54ATP6z_E8ejeNDBg88yn"
           }
         ]
       },
@@ -533,10 +509,6 @@
           {
             "title": "Оперативни планови - Комненовић Драган",
             "url": "https://drive.google.com/drive/folders/1EDgDg__fzz8LgydC7mt4gGocK7pdWngs"
-          },
-          {
-            "title": "Оперативни планови - Милојевић Далибор",
-            "url": "https://drive.google.com/drive/folders/1DX3Kq8Eb6Ma2rk-YosbQaiqCwkKz6t3e"
           }
         ]
       },
@@ -751,16 +723,6 @@
         ]
       },
       {
-        "familyName": "Миливојевић",
-        "givenName": "Далибор",
-        "links": [
-          {
-            "title": "Оперативни планови - Милојевић Далибор",
-            "url": "https://drive.google.com/drive/folders/1DX3Kq8Eb6Ma2rk-YosbQaiqCwkKz6t3e"
-          }
-        ]
-      },
-      {
         "familyName": "Милић",
         "givenName": "Александра",
         "links": [
@@ -866,7 +828,7 @@
         ]
       },
       {
-        "familyName": "Нешић ",
+        "familyName": "Нешић",
         "givenName": "Живомир",
         "links": [
           {
@@ -879,10 +841,6 @@
         "familyName": "Нешић",
         "givenName": "Светлана",
         "links": [
-          {
-            "title": "Оперативни планови - Нешић  Живомир",
-            "url": "https://drive.google.com/drive/folders/1I0kXWgkvHp9BBTTMVXh8uA4r3MJWYfgJ"
-          },
           {
             "title": "Оперативни планови - Нешић Светлана",
             "url": "https://drive.google.com/drive/folders/1lsnClE0R4-L0u2J-TNPaALBlZgPJK9NZ"
@@ -1050,6 +1008,16 @@
         ]
       },
       {
+        "familyName": "Радојевић",
+        "givenName": "Владан",
+        "links": [
+          {
+            "title": "Оперативни планови - Радојевић Владан",
+            "url": "https://drive.google.com/drive/folders/1sWyzGKEDE5LF3Q3kBjog81UNQR59JCUu"
+          }
+        ]
+      },
+      {
         "familyName": "Рајовић",
         "givenName": "Горана",
         "links": [
@@ -1213,10 +1181,6 @@
         "familyName": "Томашевић",
         "givenName": "Аница",
         "links": [
-          {
-            "title": "Оперативни планови - Бојовић Веселин",
-            "url": "https://drive.google.com/drive/folders/1RllTxGWY_FLsEeJR5awkmosGTGfzVPmE"
-          },
           {
             "title": "Оперативни планови - Томашевић Аница",
             "url": "https://drive.google.com/drive/folders/1Nen_UCIPXaaw5p5JWBuqkZfNYWvrVUoH"
