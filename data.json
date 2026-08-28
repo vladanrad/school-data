@@ -1089,6 +1089,10 @@
           {
             "title": "Годишњи и оперативни планови ",
             "url": "https://drive.google.com/drive/folders/1DX3Kq8Eb6Ma2rk-YosbQaiqCwkKz6t3e"
+          },
+          {
+            "title": "40-часовна структура ",
+            "url": "https://docs.google.com/spreadsheets/d/1Dx5JnFBWOJlyDl-__Y-GlzPqegiC2shNWHZWrkdfUjs/edit?usp=drivesdk"
           }
         ]
       },
@@ -1181,16 +1185,6 @@
   {
     "letter": "Н",
     "teachers": [
-      {
-        "familyName": "Настић",
-        "givenName": "Миша",
-        "links": [
-          {
-            "title": "40-часовна структура ",
-            "url": "https://docs.google.com/spreadsheets/d/1rgR5qSxwM2_264UCAD4M4lMXgHN5pOW0YVBnixWNq_k/edit?usp=drivesdk"
-          }
-        ]
-      },
       {
         "familyName": "Недељковић",
         "givenName": "Игор",
