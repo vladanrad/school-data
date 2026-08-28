@@ -134,6 +134,10 @@
         "givenName": "Сања",
         "links": [
           {
+            "title": "Годишњи и оперативни планови ",
+            "url": "https://drive.google.com/drive/folders/1jz5yq7MEwCB54ATP6z_E8ejeNDBg88yn"
+          },
+          {
             "title": "40-часовна структура ",
             "url": "https://docs.google.com/spreadsheets/d/1kl9sLbpu6A1hCERYRH4WG2TexIeqmpS5JJ7dEew5OPc/edit?usp=drivesdk"
           }
@@ -1027,16 +1031,6 @@
         ]
       },
       {
-        "familyName": "Миливојевић",
-        "givenName": "Далибор",
-        "links": [
-          {
-            "title": "40-часовна структура ",
-            "url": "https://docs.google.com/spreadsheets/d/1Dx5JnFBWOJlyDl-__Y-GlzPqegiC2shNWHZWrkdfUjs/edit?usp=drivesdk"
-          }
-        ]
-      },
-      {
         "familyName": "Милић",
         "givenName": "Александра",
         "links": [
@@ -1085,6 +1079,16 @@
           {
             "title": "40-часовна структура ",
             "url": "https://docs.google.com/spreadsheets/d/1fPZgoF70vsnxgwN25uv7mIG-_-gexU89HL6yvs4AlKI/edit?usp=drivesdk"
+          }
+        ]
+      },
+      {
+        "familyName": "Милојевић",
+        "givenName": "Далибор",
+        "links": [
+          {
+            "title": "Годишњи и оперативни планови ",
+            "url": "https://drive.google.com/drive/folders/1DX3Kq8Eb6Ma2rk-YosbQaiqCwkKz6t3e"
           }
         ]
       },
