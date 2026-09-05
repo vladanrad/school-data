@@ -887,6 +887,16 @@
     "letter": "К",
     "teachers": [
       {
+        "familyName": "Карајовић",
+        "givenName": "Милан",
+        "links": [
+          {
+            "title": "Годишњи и оперативни планови ",
+            "url": "https://drive.google.com/drive/folders/1VjmciyWnJ_Vk5rQ-Jr9jHbY3Q-QPF-fo"
+          }
+        ]
+      },
+      {
         "familyName": "Кљајић",
         "givenName": "Маја",
         "links": [
@@ -1719,6 +1729,16 @@
           {
             "title": "План стручног усавршавања ",
             "url": "https://docs.google.com/spreadsheets/d/1QTIWf8zLRLM689iO-rBh9cvMtJPTPUmvfxHGAdSsLnU/edit?usp=drivesdk"
+          }
+        ]
+      },
+      {
+        "familyName": "Петровић",
+        "givenName": "Милица",
+        "links": [
+          {
+            "title": "Годишњи и оперативни планови ",
+            "url": "https://drive.google.com/drive/folders/1VZwOIvPNhTqJcq3o1fxA1-65zqdR0y0X"
           }
         ]
       },
